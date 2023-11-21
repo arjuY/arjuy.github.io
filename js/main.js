@@ -83,6 +83,13 @@
 // })
 // animate()
 
+/*
+MIT License
+
+Copyright (c) 2017 Pavel Dobryakov
+
+*/
+
 'use strict';
 
 // Simulation section
